@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>My Resume - Riza Muhammad Nurman</title>
+    <title>Resume - Riza Muhammad Nurman</title>
 
     <!-- Bootstrap core CSS -->
     <link href="{{asset('resume/vendor/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet">
